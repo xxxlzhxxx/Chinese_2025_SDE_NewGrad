@@ -61,28 +61,13 @@ The icons next to roles in the table below signify the following:
 
 ---
 
-| Name         | Location     | Roles                | Citizenship/Visa Requirements | Date Added <br> mm/dd/yyyy |
+| 公司名称         | 地点     | 岗位                | 毕业时间限制 | 添加日期 |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- | 
 | [IXL Learning](https://www.ixl.com) | - San Mateo, CA <br> - Raleigh, NC | ✅ [Software Engineer, New Grad (San Mateo, CA)](https://www.ixl.com/company/careers?gh_jid=7295051002) <br> ✅ [Software Engineer, New Grad (Raleigh, NC)](https://www.ixl.com/company/careers?gh_jid=7294926002)| - | 03/27/2024 | 
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?timeType=5509c0b5959810ac0029943377d47364&workerSubType=ab40a98049581037a3ada55b087049b7) | -Santa Clara, CA | ✅ [Firmware Engineer, Memory Subsystem – New College Grad 
 | [Airbnb]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
 | [Amazon]() | U.S. Locations | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Atlassian]() | U.S Remote | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Dropbox]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Google]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Intuit]() | Mountain View, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Lyft]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Reddit]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Slack]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Snap]() | Los Angeles, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Spotify]() | U.S. Remote | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Square]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Twitch]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Twitter]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Uber]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [VMware]() | Palo Alto, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Yelp]() | San Francisco, CA | 🔒 **[Not Open Yet]** 🔒 | - | - |
-| [Zillow]() | Seattle, WA | 🔒 **[Not Open Yet]** 🔒 | - | - |
+
 
 [⬆️ Back to Top](#jobs)
 
@@ -93,10 +78,3 @@ The icons next to roles in the table below signify the following:
 We wish you all the best in your job search! 🌟
 Don't forget to stay positive and keep pushing towards your goals! 💪
 
-### **Show your support!**
-
-<a href="https://github.com/ReaVNaiL/New-Grad-2024/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ReaVNaiL/New-Grad-2024" />
-</a>
-
-Made with [contrib](https://contrib.rocks).
