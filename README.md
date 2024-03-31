@@ -16,7 +16,7 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 2. [Helpful Resources 🎯](README.md#resources)
 3. [How to Contribute 💬](How_to_contribute.md)
 
-## Resources
+## 复习资料
 
 If you are looking for more guidance on how to prepare for technical interviews, you may find these resources helpful:
 
@@ -44,7 +44,7 @@ If you are looking for more guidance on how to prepare for technical interviews,
 
 Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Interview Guide Repo](https://github.com/nas5w/interview-guide)
 
-## Discord
+## 社区
 
 Level up your career. Join the 75,000+ member community:
 
@@ -61,7 +61,7 @@ The icons next to roles in the table below signify the following:
 
 ---
 
-| 公司名称         | 地点     | 岗位                | 毕业时间限制 | 添加日期 |
+| 公司名称         | 地点     | 岗位                | 学历要求 | 添加日期 |
 | ------------ | ------------ | -------------------- | ----------------------------- | --------------------------- | 
 | [IXL Learning](https://www.ixl.com) | - San Mateo, CA <br> - Raleigh, NC | ✅ [Software Engineer, New Grad (San Mateo, CA)](https://www.ixl.com/company/careers?gh_jid=7295051002) <br> ✅ [Software Engineer, New Grad (Raleigh, NC)](https://www.ixl.com/company/careers?gh_jid=7294926002)| - | 03/27/2024 | 
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?timeType=5509c0b5959810ac0029943377d47364&workerSubType=ab40a98049581037a3ada55b087049b7) | -Santa Clara, CA | ✅ [Firmware Engineer, Memory Subsystem – New College Grad 
