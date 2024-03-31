@@ -1,5 +1,5 @@
 # Chinese_2025_SDE_NewGrad
-# 2024 New Grad Full-time Positions 🎓💼
+# 2025 中国SDE校招岗位列表 🎓💼
 
 Welcome! 🎉
 This is a collection of full-time job openings for new grads in 2024 in the fields of Software Engineering (SWE), Quantitative Analysis, Product Management (PM) and other tech roles.
