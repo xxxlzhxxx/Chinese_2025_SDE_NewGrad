@@ -10,11 +10,11 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 > 🌎 **Please note that this repository only lists job openings in the `United States`, `Remote` and `Canada`** 🌎
 
-## Table of Contents
+## 目录（点击跳转）
 
-1. [Find The Jobs 🔽](README.md#jobs)
-2. [Helpful Resources 🎯](README.md#resources)
-3. [How to Contribute 💬](How_to_contribute.md)
+1. 岗位列表(README.md#jobs)
+2. 复习资料(README.md#resources)
+3. 如何贡献(How_to_contribute.md)
 
 ## 复习资料
 
@@ -33,16 +33,6 @@ If you are looking for more guidance on how to prepare for technical interviews,
 - **[Probability & Markets Guide by Jane Street](https://www.janestreet.com/static/pdfs/trading-interview.pdf?utm_source=web&utm_medium=pdf&utm_campaign=probability_markets_guide)**:
   - A PDF guide of general topics to know for interviews at quant trading firms like Jane Street. Great for getting a baseline introduction to the topics tested in quant interviews.
 
-## For International Students
-
-- **[h1bdata.info](https://www.h1bdata.info)**
-  - Check if a company has sponsored for H1B candidates in the past.
-  -  **[h1b salary database](https://www.h1bsalarydata.com)**
-  - Check if a company has sponsored for H1B candidates in the past.
-- **[e-verify.gov](https://www.e-verify.gov)**
-  - Check if a company is e-verified (i.e, allows for F-1 OPT STEM extension of 24 months).
-
-Support [Nick Scialli](https://github.com/nas5w) directly on his repo! [Interview Guide Repo](https://github.com/nas5w/interview-guide)
 
 ## 社区
 
