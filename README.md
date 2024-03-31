@@ -12,9 +12,8 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 
 ## 目录（点击跳转）
 
-1. [岗位列表](README.md#jobs)
-2. [复习资料](README.md#resources)
-3. [如何贡献](How_to_contribute.md)
+1. [岗位列表](README.md#岗位大全)
+2. [复习资料](README.md#复习资料)
 
 ## 复习资料
 
