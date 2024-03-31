@@ -40,14 +40,12 @@ Level up your career. Join the 75,000+ member community:
 
 - **[CSCareers.Dev Discord](https://discord.com/invite/cscareers)**
 
-## Roles Status:
+## 岗位状态:
 
-The icons next to roles in the table below signify the following:
+- ✅: 可以投递 / 已经开岗.
+- 🔒: 不可投递 / 已关闭.
 
-- ✅: Available / Open.
-- 🔒: No Longer Available / Closed.
-
-## Jobs
+## 岗位大全
 
 ---
 
@@ -59,11 +57,11 @@ The icons next to roles in the table below signify the following:
 | [Amazon]() | U.S. Locations | 🔒 **[Not Open Yet]** 🔒 | - | - |
 
 
-[⬆️ Back to Top](#jobs)
+[⬆️ 回到起始位置](#jobs)
 
 ---
 
-## Good Luck
+## Good Luck！
 
 We wish you all the best in your job search! 🌟
 Don't forget to stay positive and keep pushing towards your goals! 💪
